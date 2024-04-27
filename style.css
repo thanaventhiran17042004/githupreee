@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: "Young Serif", serif;
+}
+
+.section-one{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.section-one__name{
+    font-size: 60px;
+}
+
+.section-one__role{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.section-one__contact
+{
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+}
+\\\\
+
+.container{
+    padding: 50px;
+}
+.section-two{
+    background-color: #6462fd;
+    height: 300px;
+    width: 200px;
+    display: inline-block;
+    padding: 20px;
+    vertical-align: top;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+li{
+    list-style: none;
+}
+.section-three{
+    background-color: orangered;
+    height: 300px;
+    width: 500px;
+    display: inline-block;
+    padding:20px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.section-five{
+background-color: black;
+color: white;
+padding: 20px;
+padding-bottom: 10px;
+margin-top: 20px;
+}
